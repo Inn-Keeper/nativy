@@ -1,0 +1,7 @@
+[
+  {"id":"greeting","language":"sv-SE","sv":"Hej, hur mår du?","en":"Hi, how are you?","audio":"/audio/sv-SE/piper-v1/greeting.wav"},
+  {"id":"coffee","language":"sv-SE","sv":"Jag skulle vilja ha en kaffe.","en":"I would like a coffee.","audio":"/audio/sv-SE/piper-v1/coffee.wav"},
+  {"id":"thanks","language":"sv-SE","sv":"Tack så mycket.","en":"Thank you very much.","audio":"/audio/sv-SE/piper-v1/thanks.wav"},
+  {"id":"station","language":"sv-SE","sv":"Ursäkta, var ligger stationen?","en":"Excuse me, where is the station?","audio":"/audio/sv-SE/piper-v1/station.wav"},
+  {"id":"repeat","language":"sv-SE","sv":"Kan du säga det igen?","en":"Can you say that again?","audio":"/audio/sv-SE/piper-v1/repeat.wav"}
+]
